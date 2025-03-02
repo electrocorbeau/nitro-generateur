@@ -5,8 +5,8 @@ import string
 from time import localtime, strftime
 import asyncio  # Import for adding a delay between messages
 
-TOKEN = "YOUR_TOKEN_HERE"
-GUILD_ID = Guild_ID  # Replace with your server ID
+TOKEN = "1344740224021958769"
+GUILD_ID = 1345818474265448519 # Replace with your server ID
 
 class MyClient(discord.Client):
     def __init__(self):
